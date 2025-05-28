@@ -16,11 +16,12 @@ development by [Prof. Wyllian Bezerra da Silva](http://wyllian.prof.ufsc.br/) at
 
 # Usage Instructions
 
-![xfree-rdp overview](https://github.com/wyllianbs/xfreerdp-gui/blob/master/xfreerdp-gui.png)
+![xfreerdp3 overview](https://github.com/user-attachments/assets/e6e591c2-827e-40b9-9bf1-d015bd2ac37e)
 
-1. Run the script in console, e.g., `bash xfreerdp-gui.sh` or change the permission (`chmod u+x xfreerdp-gui.sh`) and run by command line `./xfreerdp-gui.sh` or double-click on shortcut icon to launch.
 
-2. Fill the form: 
+1. Run the script in console, e.g., `bash xfreerdp3-gui.sh` or change the permission (`chmod u+x xfreerdp3-gui.sh`) and run by command line `./xfreerdp3-gui.sh` or double-click on shortcut icon to launch.
+
+2. QuickConnect: Fill the form ->
   - Server address or IP address.
   - Port number.
   - Domain (optional).
