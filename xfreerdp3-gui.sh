@@ -335,7 +335,7 @@ main_menu() {
 
     while true; do
         local choice
-        choice=$(zenity --list --title="xfreerdp-gui for FreeRDP v3" \
+        choice=$(zenity --list --title="xfreerdp3-gui for FreeRDP v3" \
             --text="Select an action or a saved connection:" \
             --column="Actions / Connections" "${main_options[@]}" \
             --width=450 --height=$(( 200 + ${#connections[@]} * 20 ))) # Dynamic height
